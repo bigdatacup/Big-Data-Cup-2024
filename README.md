@@ -21,7 +21,7 @@
 
 <h2>Contextual (Event) Data</h2>
 
-[International Games](../main/pxp_womens_oly_2022_v2.csv) | [NCAA Games](../main/hackathon_womens.csv) | [NWHL Games](../main/hackathon_nwhl.csv)
+[International Games](../main/BDC_2024_Womens_Data.csv)
 
 <ul>
   <li>Date (e.g. ‘2020-12-23’. Format = ‘yyyy-mm-dd’)</li>
